@@ -1,0 +1,5 @@
+Welcome to the world of programming.
+Java is a popular programming language.
+Programming is fun and challenging.
+Java programming allows you to build various applications.
+Enjoy coding with Java!
